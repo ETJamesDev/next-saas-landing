@@ -259,7 +259,7 @@ export default function Home() {
               <Button size="lg" variant="secondary" className="rounded-full px-10 h-14 text-[15px] bg-white text-blue-600 hover:bg-white/90 transition-all duration-300 hover:scale-105 shadow-lg hover:shadow-xl">
                 Get Started Now
               </Button>
-              <Button size="lg" variant="outline" className="rounded-full px-10 h-14 text-[15px] border-2 border-white text-white hover:bg-white/10 transition-all duration-300 hover:scale-105">
+              <Button size="lg" variant="secondary" className="rounded-full px-10 h-14 text-[15px] bg-white text-blue-600 hover:bg-white/90 transition-all duration-300 hover:scale-105 shadow-lg hover:shadow-xl">
                 Schedule Demo
               </Button>
             </div>
