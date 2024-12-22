@@ -6,7 +6,7 @@ A modern and open-source landing page template for SaaS products. Built with Nex
 
 ## 🚀 Live Demo
 
-[View Demo](https://next-saas-landing.etjames.dev)
+[View Demo](https://next-saas-landing.ethanjames.dev)
 
 ## ✨ Features
 
